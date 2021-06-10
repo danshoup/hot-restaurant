@@ -1,7 +1,7 @@
 {
-  "name": "starwars-express",
+  "name": "hot-restaurant",
   "version": "1.0.0",
-  "description": "Helps you find the characters you are looking for, it does.",
+  "description": "Helps you make a reservation for Hot-Restaurant",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
